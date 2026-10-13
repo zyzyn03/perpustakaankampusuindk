@@ -1,0 +1,44 @@
+{
+    "active_design": "kta_20260930212201_13f93017",
+    "designs": {
+        "kta-2026": {
+            "name": "KTA 2026",
+            "show_photo": true,
+            "created_at": "2026-09-29 08:45:30"
+        },
+        "kta_20260930212201_13f93017": {
+            "name": "Desain KTA 30-09-2026 21:22",
+            "front": "front.jpg",
+            "back": "back.jpg",
+            "show_photo": 1,
+            "created_at": "2026-09-30 21:22:01"
+        },
+        "kta_20261001081933_ecace21f": {
+            "name": "desain22",
+            "front": "front.jpg",
+            "back": "back.jpg",
+            "show_photo": 1,
+            "created_at": "2026-10-01 08:19:33"
+        },
+        "kta_20261001082813_295a74ec": {
+            "name": "Desain KTA 01-10-2026 08:28",
+            "front": "front.jpg",
+            "back": "back.jpg",
+            "show_photo": 1,
+            "created_at": "2026-10-01 08:28:13"
+        }
+    },
+    "settings": {
+        "front_title": "KARTU TANDA ANGGOTA PERPUSTAKAAN",
+        "front_subtitle": "UIN Datokarama Palu",
+        "back_title": "KETENTUAN KARTU ANGGOTA",
+        "back_text": "Kartu ini adalah milik perpustakaan. Harap dijaga dan digunakan sesuai ketentuan perpustakaan. Jika ditemukan, mohon dikembalikan ke perpustakaan.",
+        "signature_name": "Muhamad Teguh Mulyawan",
+        "signature_jabatan": "Kepala Perpustakaan",
+        "signature_nip": "012345672",
+        "show_signature": 1,
+        "logo_ext": "jpg",
+        "public_base_url": "",
+        "public_secret": "a500b403b2d46e637d8bfb1ef646e42f"
+    }
+}
